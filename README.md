@@ -15,6 +15,9 @@ command -
 
 ## Examples
 > `node app.js add --title="ToDo List" --body="Buy groceries"`
+
 > `node app.js list`  
+
 > `node app.js read --title="ToDo List"`    
+
 > `node app.js remove --title="ToDo List"`
